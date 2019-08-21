@@ -1,0 +1,12 @@
+ok now the way i clone your repo is 
+- i went to the part that saiddownload or clone
+- then i clicked onit and copied the url there
+- then i opened the terminal, typed git clone and and paste the url i copied
+-then i opened the file( that is i typed cd oke)
+-i created another branch using git checkout -b then branch name
+- then i created this file using touch n then im editing it now
+then ill save n type git add
+-git commit -m
+- then git push origin ( branch name)
+type in your git name n password
+and youre done
